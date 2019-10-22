@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  poster_path: MyString
+  backdrop_path: MyString
+  overview: MyText
+  release_date: 2019-10-22
+  rating: 1
+
+two:
+  title: MyString
+  poster_path: MyString
+  backdrop_path: MyString
+  overview: MyText
+  release_date: 2019-10-22
+  rating: 1
