@@ -11,3 +11,4 @@ React.js
 
 Features:
 
+This includes a generator 
