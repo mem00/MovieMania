@@ -10,5 +10,5 @@ React.js
 
 
 Features:
+The app will include a simple gallery with the option to rate a movie 
 
-This includes a generator 
